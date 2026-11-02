@@ -50,7 +50,7 @@ const MENU_DATA = [
     "title": "ENTRÉES FROIDES",
     "arabic": "المقبلات الباردة",
     "icon": "salad",
-    "image": "assets/categories/2.webp",
+    "image": "assets/food/salade-nicoise.webp",
     "items": [
       {
         "id": "p2-0",
